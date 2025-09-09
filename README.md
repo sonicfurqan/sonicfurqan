@@ -96,7 +96,7 @@ I'm **Syed Furqan Ahmed**, a **Senior Salesforce Developer** with **8 years of e
 - **Einstein Platform**: Einstein Analytics (Tableau CRM), Einstein Bots, Service Cloud Einstein
 - **Data Management**: Data Migration, SOQL/SOSL optimization
 
-### Scriptiing
+### Scripting
 - **Python-Salesforce Integration**: environment-specific connection management
 - **High-Volume Data Operations**: Bulk API 2.0 implementation, memory-efficient chunking strategies, and automated pagination handling
 - **Advanced Data Transformation**: ETL pipeline development with pandas, field mapping and validation frameworks, and automated data quality checks
